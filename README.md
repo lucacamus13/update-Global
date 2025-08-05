@@ -21,7 +21,7 @@ Los datos provienen de [Yahoo Finance](https://finance.yahoo.com/) mediante la l
 - **Europa**: FTSE 100, DAX Alemán.
 - **Asia**: Nikkei 225, Shanghai Composite.
   ![Aperturas](images/aperturas.png)
-  ![Rendimientos](images/rendimiento de bolsas.png)
+  ![Rendimientos](images/rendimiento_de_bolsas.png)
 
 ### Monedas
 
@@ -31,6 +31,31 @@ Los datos provienen de [Yahoo Finance](https://finance.yahoo.com/) mediante la l
 - Yuan Chino (USD/CNY)
 - Dólar Australiano (USD/AUD)
 - Dólar Canadiense (USD/CAD)
+ ![Monedas](images/monedas.png)
+
+### Commodities
+
+Pretróleo Brent
+Petróleo de Texas
+Mineral de Hierro
+Cobre
+Gas Natural
+Litio
+Uranio
+Oro
+Plata
+
+ ![Commodities](images/commodities.png)
+
+### Decisiones de Política Monetaria
+
+Federal Reserve (FED)
+Bank of England (BoA)
+Banco Central Europeo (BCE)
+Bank of Japan (BoJ)
+
+![Tasas](images/política_monetaria.png)
+
 
 ## Cómo usar el notebook
 

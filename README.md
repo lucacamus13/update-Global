@@ -20,7 +20,8 @@ Los datos provienen de [Yahoo Finance](https://finance.yahoo.com/) mediante la l
 - **Estados Unidos**: S&P 500, Nasdaq.
 - **Europa**: FTSE 100, DAX Alemán.
 - **Asia**: Nikkei 225, Shanghai Composite.
-- ![Aperturas](images/aperturas.png) 
+  ![Aperturas](images/aperturas.png)
+  ![Rendimientos](images/rendimiento de bolsas.png)
 
 ### Monedas
 
